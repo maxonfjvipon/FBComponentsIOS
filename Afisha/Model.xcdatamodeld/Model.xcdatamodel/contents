@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17511" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="BoughtTicket" representedClassName=".BoughtTicket" syncable="YES">
+        <attribute name="cinemaName" attributeType="String"/>
+        <attribute name="movieName" attributeType="String"/>
+        <attribute name="place" attributeType="String"/>
+        <attribute name="price" attributeType="String"/>
+        <attribute name="time" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="BoughtTicket" positionX="-45" positionY="0" width="128" height="118"/>
+    </elements>
+</model>
